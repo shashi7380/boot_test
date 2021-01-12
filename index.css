@@ -1,6 +1,7 @@
 .container{
     
     border: 0px solid black;
+    padding-top:3%;
 }
 .row{
     border: brown 0px solid;
