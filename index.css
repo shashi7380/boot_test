@@ -1,0 +1,55 @@
+.container{
+    
+    border: 0px solid black;
+}
+.row{
+    border: brown 0px solid;
+}
+.col,
+.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    border: 0px solid red;
+}
+#header{
+background-color: orange;
+
+}
+#header h1{
+    text-align: center;
+}
+#menu{
+background-color: black;
+margin: 0;
+height: auto;
+padding-top: 2%;
+
+}
+#menu ul{
+    list-style: none;
+}
+#menu ul li{
+    display: inline-block;
+
+
+}
+#menu ul li a{
+    text-decoration: none;
+    padding: 15px 18px;
+}
+#content{
+    background-color: #fff;
+
+}
+#siderbar{
+background-color: lightblue;
+
+}
+#siderbar ul{
+    list-style-type: none;
+}
+#footer{
+    background-color:orange;
+
+}
+a:hover{
+    background-color: hotpink;
+}
